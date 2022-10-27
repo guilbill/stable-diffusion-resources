@@ -5,6 +5,9 @@ Here are the sources of my presentation.
 
 ## Use cases
 
+- Dall-e 2 https://labs.openai.com/
+- Midjourney https://www.midjourney.com/home/
+- Dreamlike (stable diffusion) https://dreamlike.art/
 - Fiverr vs stable diffusion https://simonberens.me/blog/dalle-2-vs-10-fiverr-commission
 - Stable horde https://stablehorde.net/
 - InvokeAI
