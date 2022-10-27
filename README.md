@@ -1,6 +1,6 @@
 # A list of Stable diffusion resources
 
-I made a presentation about IA generated images, and more specifically about stable diffusion.
+I made a presentation about AI generated images, and more specifically about stable diffusion.
 Here are the sources of my presentation.
 
 ## Use cases
@@ -8,6 +8,7 @@ Here are the sources of my presentation.
 - Dall-e 2 https://labs.openai.com/
 - Midjourney https://www.midjourney.com/home/
 - Dreamlike (stable diffusion) https://dreamlike.art/
+- Runway (differents art tools based on AI) https://runwayml.com/
 - Fiverr vs stable diffusion https://simonberens.me/blog/dalle-2-vs-10-fiverr-commission
 - Stable horde https://stablehorde.net/
 - InvokeAI
